@@ -14,6 +14,8 @@ In browser type URL : http://localhost//parse-xml-using-php-simplexml-library
 
 Parsed XML information is shown in a tabular format in browser.
 
+Watch a detailed video: https://www.youtube.com/watch?v=-gBCFssl7q4
+
 Read detailed tutoril: http://programmerblog.net/parse-xml-using-php-simplexml-library/
 
 
